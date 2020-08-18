@@ -6,5 +6,4 @@ const reverse = (str) => {
    return revStr;
 }
 
-let a = 4;
-console.log(a -= 8 - a);
+
